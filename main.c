@@ -41,8 +41,6 @@ if(number1>number2){
         }
     }
     
-    
-   printf("\n");
 
 return 0;
 }
